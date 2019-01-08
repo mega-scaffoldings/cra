@@ -12,6 +12,6 @@
     "test": "lugia-scripts test -w"
   },
   "devDependencies": {
-    "@lugia/mega-scripts": "^1.1.1"
+    "@lugia/mega-scripts": "^1.2.0"
   }
 }
